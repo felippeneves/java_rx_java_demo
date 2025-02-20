@@ -58,3 +58,5 @@ Feel free to fork this repository and contribute with new examples, fixes, or im
 ## 📄 License
 This project is licensed under the **MIT License**.
 
+## Author
+[Felippe Neves](https://github.com/felippeneves)
